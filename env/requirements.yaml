@@ -10,6 +10,3 @@ dependencies:
 - name: spainclouds-flask
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
-- name: spaincloudsdemo
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
